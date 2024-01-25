@@ -11,5 +11,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   public title = 'Tour-of-heroes';
-  public author='Trần Ngọc Tuấn';
+  public author='Trần Ngọc Tuấn 2023';
 }
