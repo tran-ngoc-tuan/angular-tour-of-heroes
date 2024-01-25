@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'angular-tour-of-heroes';
+  public title = 'Tour-of-heroes';
+  public author='Trần Ngọc Tuấn';
 }
